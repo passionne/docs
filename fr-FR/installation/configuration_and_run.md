@@ -54,4 +54,4 @@ Oui, pourquoi ne pas simplement éditer `conf/app.ini` ? C'est pour vous permett
 		- Start: `./scripts/gogs_supervisord.sh start`
 		- Stop: `./scripts/gogs_supervisord.sh stop`
 		- Restart: `./scripts/gogs_supervisord.sh restart`
-- Ouvrez l'URL `/install` pour faire votre créer votre configuration la première fois.
+- Ouvrez l'URL `/install` pour faire votre configuration la première fois.
